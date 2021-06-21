@@ -32,3 +32,4 @@ Findings:
 ## Fourth: Communicate with Stakeholders, Email/Slack Message
 
 I have attahed the word document - FetchRewardsEmail.docx which explains few business related questions and data quality issues that were discovered during initial stages of exploration of data.
+
